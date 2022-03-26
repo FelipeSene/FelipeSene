@@ -1,10 +1,12 @@
 <h1> Olá! Eu sou o Felipe Sene 👋 </h1>
 
 ### Sobre mim:
+
 Estudando JavaScript e Java<br>
 Um dia eu escrevo mais coisas aqui...
-##
 
+##
+### Analytics:
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/FelipeSene">
@@ -14,7 +16,7 @@ Um dia eu escrevo mais coisas aqui...
         
 ##
   
-  <h3> Linguagens que eu faço alguma coisa: </h3>
+  <h3> Linguagens que faço alguma coisa: </h3>
         
 <div style="display: inline_block"><br>
   <img align="center" alt="Felps-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
