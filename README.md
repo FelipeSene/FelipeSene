@@ -24,7 +24,7 @@ Sou um entusiasta de tecnologia focado em **Desenvolvimento Backend e Análise d
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-<br>
+---
 
 **Ferramentas:**
 `Git` | `GitHub` | `Excel Avançado` | `Metodologias Ágeis`
