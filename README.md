@@ -15,7 +15,7 @@ Sou um entusiasta de tecnologia focado em **Desenvolvimento Backend e Análise d
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-<br>
+---
 
 **Frontend:**
 <div style="display: inline_block">
