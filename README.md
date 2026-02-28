@@ -1,30 +1,30 @@
-<h1> Olá! Eu sou o Felipe Sene </h1>
+# Olá! Eu sou o Felipe Sene 👋
 
-### Sobre mim:
+### Estudante de Análise e Desenvolvimento de Sistemas no IFSP
 
-Estudando Java, C# e PHP <br>
-Um dia eu escrevo mais coisas aqui...
+Sou um entusiasta de tecnologia focado em **Desenvolvimento Backend e Análise de Dados**. Com base técnica consolidada na ETEC e atualmente aprimorando meus conhecimentos no IFSP, busco criar soluções eficientes e escaláveis.
 
-##
+---
 
-### Analytics:
+### 🛠️ Tecnologias e Ferramentas:
 
-<div align="center" style="display: inline_block">
- <a href="https://github.com/FelipeSene">
- <img height="150em" title="Estatisticas "src="https://github-readme-stats.vercel.app/api?username=FelipeSene&show_icons=true&theme=tokyonight">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSene&layout=compact&langs_count=7&theme=tokyonight"         title="Linguagens mais utilizadas">
+**Backend & Dados:**
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-##
+<br>
 
-### Linguagens que faço alguma coisa:
-
-<div style="display: inline_block"><br>
- <img align="center" alt="Felps-HTML" height="60" title="HTML 5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Felps-CSS" height="60" title="CSS 3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Felps-C#" height="60" title="C sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
- <img align="center" alt="Felps-HTML" height="60" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
- <img align="center" alt="Felps-JAVA" height="60" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+**Frontend:**
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-##
+<br>
+
+**Ferramentas:**
+`Git` | `GitHub` | `Excel Avançado` | `Metodologias Ágeis`
